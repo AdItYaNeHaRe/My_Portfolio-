@@ -22,8 +22,8 @@ export const projectImages = {
   churnanalysis,
   salesdashboard,
   "iris-classification": irisClassification,
-  "AI_multi-agent": AI_multi_agent,
-  "RAG-CHATBOT": RAG_CHATBOT,
+  "langgraph-support": AI_multi_agent,
+  "rag-chatbot": RAG_CHATBOT,
 };
 
 export const FALLBACK_IMAGE = "/images/projects/placeholder.svg";
